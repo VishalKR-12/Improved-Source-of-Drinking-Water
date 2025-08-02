@@ -158,7 +158,6 @@ This project is for academic and research purposes only and follows standard ope
 ## 🙏 Acknowledgements
 
 - IBM SkillsBuild & Cloud Team  
-- Faculty at Sri Venkateswara College of Engineering  
 - AI Kosh and National Sample Survey (NSSO)
 
 ---
@@ -169,4 +168,5 @@ This project is for academic and research purposes only and follows standard ope
 Email: [vshldare@gmail.com](mailto:vshldare@gmail.com)  
 GitHub: [github.com/VishalKR-12](https://github.com/VishalKR-12)  
 LinkedIn: [linkedin.com/in/vishal-k-r-b762a0371](https://www.linkedin.com/in/vishal-k-r-b762a0371)
+
 
